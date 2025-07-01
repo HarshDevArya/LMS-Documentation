@@ -61,9 +61,6 @@ Below are some innovative features that can be added in the future to enhance th
 | **Integrations & Extensibility**  | Third-party Integrations    | Connect with tools like Google Classroom, Zoom, payment gateways            |
 |                                   | API Access                  | Allow other systems to connect and exchange data                            |
 |                                   | Plugin System               | Add custom features via plugins                                             |
-| **Security & Compliance**         | Role-based Access Control   | Fine-grained permissions for user types                                     |
-|                                   | Audit Logs                  | Track important actions for security/compliance                             |
-|                                   | Data Privacy Tools          | Help comply with regulations (GDPR, FERPA, etc.)                            |
 | **Other Innovations**             | Exam Proctoring             | AI-based monitoring during online exams                                     |
 |                                   | Alumni Portal               | Engage former students with the institution                                 |
 |                                   | Event Management            | Organize and manage school events and registrations                         |
@@ -93,4 +90,3 @@ Below are some innovative features that can be added in the future to enhance th
 | Communication  | Notices, word-of-mouth | Instant notifications, dashboard  |
 | Data Access    | In files/cabinets      | Secure, online, real-time         |
 
-For more details or a demonstration, please contact the development team.
